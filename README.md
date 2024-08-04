@@ -1,4 +1,8 @@
-## Hi there 👋
+### Just a bunch of random repos
+
+Reading about stuff all the time
+
+[Personal website](https://xmfit.github.io/)
 
 <!--
 **XMfit/XMfit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
